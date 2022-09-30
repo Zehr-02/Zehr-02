@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Zehr-02
-- 👀 I’m interested in health monitoring using android
-- 🌱 I’m currently learning Kotlin programming language for android
-- 💞️ I’m looking to collaborate on ..?
-- 📫 How to reach me is through my email at rhezatedjo@gmail.com
+- 👋 Hi, I’m Rheza Tedjo
+
+I'm a Fresh Graduate as a Bachelor of Computer Science from Sam Ratulangi University
+
+- 👀 I have interest in building Android applications, and recently in AI Deep Learning
+- 🌱 I’m currently learning Data, Model and deployment in AI
+- 📫 How to reach me is through my [email](rhezatedjo@gmail.com) or by [LinkedIn](https://www.linkedin.com/in/rheza-tedjo/)
 
 <!---
 Zehr-02/Zehr-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
